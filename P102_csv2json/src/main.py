@@ -68,8 +68,8 @@ def convert_csv_to_json(input_file, output_file):
     return safe_records
 
 def main():
-
-    raise NotImplementedError
+    """Create the classroom JSON export in the submission folder"""
+    convert_csv_to_json(INPUT_FILE, OUTPUT_FILE)
 
 
 if __name__ == "__main__":

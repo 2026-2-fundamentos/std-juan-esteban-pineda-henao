@@ -1,1 +1,0 @@
-PROJECT_FOLDER = Path(__file__).resolve().parents[1]
